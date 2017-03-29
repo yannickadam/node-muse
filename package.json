@@ -2,9 +2,8 @@
   "name": "node-muse",
   "version": "1.0.0",
   "description": "Raw EEG data extraction from Muse headset in NodeJS",
-  "main": "index.js",
+  "main": "dist/index.js",
   "dependencies": {
-    "bleno": "^0.4.2"
   },
   "devDependencies": {
     "typescript": "^2.2.2"
