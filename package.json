@@ -1,0 +1,25 @@
+{
+  "name": "node-muse",
+  "version": "1.0.0",
+  "description": "Raw EEG data extraction from Muse headset in NodeJS",
+  "main": "index.js",
+  "dependencies": {
+    "bleno": "^0.4.2"
+  },
+  "devDependencies": {
+    "typescript": "^2.2.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yannickadam/node-muse.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yannickadam/node-muse/issues"
+  },
+  "homepage": "https://github.com/yannickadam/node-muse#readme"
+}
